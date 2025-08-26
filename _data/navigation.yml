@@ -2,28 +2,28 @@
 main:
   - name: Home
     url: ./
-  - name: Projeto
+  - name: Decovacs Project
+    url: /project.html
+  - name: Team
+    url: /team.html
+  - name: Results
     url: "#"
     submenu:
-      - name: Projeto
-        url: /projeto.html
-      - name: Instituições
-        url: /instituicoes.html
-  - name: Equipe
-    url: /equipe.html
-  - name: Publicações
-    url: /
+      - name: Vigivac Dataset
+        url: /dataset.html
+      - name: OMOP Mapping
+        url: /mapping.html
+      - name: OHDSI Demo
+        url: /demo.html
+      - name: Reports
+        url: /reports.html
+  - name: Results
+    url: "#"
     submenu:
-      - name: Preprints e Artigos Científicos
-        url: /artigos.html
-      - name: Boletins
-        url: /boletins.html
-      - name: Na mídia
-        url: /na-midia
-      - name: 404
-        url: /404
-  - name: Lições Aprendidas
-    url: /licoes.html
+      -name: Blog-1
+        url: blog-1.html
+    -name: Blog-2
+        url: blog-2.html
 
 ########## footer menu ###############
 footer:
