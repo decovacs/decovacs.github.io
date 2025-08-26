@@ -1,29 +1,29 @@
 #Please use the main menu items under the "name"
 main:
-  - name: Home
+  - name: Homee
     url: ./
-  - name: Decovacs Project
-    url: /project.html
-  - name: Team
-    url: /team.html
-  - name: Results
+  - name: Projeto
     url: "#"
     submenu:
-      - name: Vigivac Dataset
-        url: /dataset.html
-      - name: OMOP Mapping
-        url: /mapping.html
-      - name: OHDSI Demo
-        url: /demo.html
-      - name: Reports
-        url: /reports.html
-  - name: Results
-    url: "#"
+      - name: Projeto
+        url: /projeto.html
+      - name: Instituições
+        url: /instituicoes.html
+  - name: Equipe
+    url: /equipe.html
+  - name: Publicações
+    url: /
     submenu:
-      -name: Blog-1
-        url: blog-1.html
-      -name: Blog-2
-        url: blog-2.html
+      - name: Preprints e Artigos Científicos
+        url: /artigos.html
+      - name: Boletins
+        url: /boletins.html
+      - name: Na mídia
+        url: /na-midia
+      - name: 404
+        url: /404
+  - name: Lições Aprendidas
+    url: /licoes.html
 
 ########## footer menu ###############
 footer:
