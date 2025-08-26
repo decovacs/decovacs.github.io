@@ -3,7 +3,7 @@ hero_area:
   background_image : ""
   subtitle: ""
   title : "Decovacs"
-  content : "Análise comparativa da segurança e eficácia da vacina da Covid-19"
+  content : "Comparative analysis of the safety and efficacy of the Covid-19 vaccine"
   image : ""
   button:
     enable : true
