@@ -7,6 +7,6 @@ hero_area:
   image : ""
   button:
     enable : true
-    label : "Sobre o projeto"
-    link : "/projeto"
+    label : "About the project"
+    link : "/project"
 
