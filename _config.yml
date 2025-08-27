@@ -17,6 +17,8 @@ copyright: " &copy; 2025 TAll Right Reserved"
 # page header default image
 cover_image: "/assets/images/bg/about-bg.jpg"
 
+
+cta:
 ############### Call to Action ###############
   enable: true
   title: "dizer give the smart solution for your business"
