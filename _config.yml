@@ -1,7 +1,7 @@
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://decovacs.github.io/" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
 title: "Decovacs"
-email: "vinicius.oliveira@fiocruz.br"
+email: "ddecovacs@gmail.com"
 phone: ""
 address: "Parque Tecnológico da Edf. Tecnocentro, R. Mundo, 121 - sala 315 - Trobogy, Salvador - BA, 41745-715"
 author: Fiocruz
@@ -13,13 +13,11 @@ logo_icon: "/assets/images/logo-b.png"
 contact_form_action: "#" # works with https://fomrspree.io
 mailchimp_list: "#"
 footer_content: "Comparative analysis of the safety and efficacy of the Covid-19 vaccine in Brazil and Pakistan."
-copyright: " &copy; 2025 Todos os direitos reservados"
+copyright: " &copy; 2025 TAll Right Reserved"
 # page header default image
 cover_image: "/assets/images/bg/about-bg.jpg"
 
-
 ############### Call to Action ###############
-cta:
   enable: true
   title: "dizer give the smart solution for your business"
   bg_image: "/assets/images/bg/cta-bg-2.png"
