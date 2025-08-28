@@ -1,5 +1,5 @@
 ---
-layout: post_2
+layout: post
 title: "Introduction"
 date: 2025-08-26 08:00:00 +0300
 tags: report
