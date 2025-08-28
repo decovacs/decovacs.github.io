@@ -23,19 +23,19 @@ main:
 ########## footer menu ###############
 footer:
   - name: Decovacs Project
-    url: /project.html
+    url: ./project.html
   - name: Team
-    url: /team.html
+    url: ./team.html
   - name: Vigivac Dataset
-    url: /dataset.html
+    url: ./dataset.html
   - name: OMOP Mapping
-    url: /mapping.html
+    url: ./mapping.html
   - name: OHDSI Demo
-    url: /demo.html
+    url: ./demo.html
   - name: Reports
-    url: /reports.html
+    url: ./reports.html
   - name: Lessons learned
-    url: /lessons.html
+    url: ./lessons.html
 
 ############## Bottom menu ###############
 bottom:
