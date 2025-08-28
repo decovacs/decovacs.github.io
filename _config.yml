@@ -6,7 +6,7 @@ phone: ""
 address: "Parque Tecnológico da Edf. Tecnocentro, R. Mundo, 121 - sala 315 - Trobogy, Salvador - BA, 41745-715"
 author: Fiocruz
 description: >- # this means to ignore newlines  
-  Comparative analysis of the safety and efficacy of the Covid-19 vaccine
+  Comparative analysis of the safety and efficacy of the Covid-19 vaccine in Brazil and Pakistan.
 logo: "/assets/images/logo.png"
 logo_icon: "/assets/images/logo-b.png"
 # contact form action

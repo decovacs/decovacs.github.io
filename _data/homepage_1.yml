@@ -1,9 +1,9 @@
 ######################### Hero Area ##############################
 hero_area:
   background_image : "/assets/images/bg/banner-2.png"
-  subtitle: ""
+  subtitle: "A Brazil-Pakistan collaboration to map large-scale COVID-19 data to the OMOP common data model for reproducible research."
   title : "Decovacs"
-  content : "Comparative analysis of the safety and efficacy of the Covid-19 vaccine"
+  content : "Re-using Public Health Data in the Global South"
   #image : "/assets/images/banner/banner-vacinas-covid.jpg"
   button:
     enable : true

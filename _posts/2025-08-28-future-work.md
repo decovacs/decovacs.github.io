@@ -24,7 +24,7 @@ author: "Decovacs"
 	<li>Apply OHDSI quality tools to evaluate completeness, consistency, and plausibility.</li>
 	<li>Cross-check representativeness against official health statistics.</li>
 </ul>
-<li>Analytical Applications</li>
+<li><b>Analytical Applications</b></li>
 <ul>
 	<li>Conduct federated analyses with Pakistan to compare vaccine effectiveness.</li>
 	<li>Estimate effectiveness against severe outcomes and mortality.</li>
