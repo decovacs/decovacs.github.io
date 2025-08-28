@@ -1,10 +1,10 @@
 ######################### Hero Area ##############################
 hero_area:
-  #background_image : "/assets/images/bg/banner-2.png"
+  background_image : "/assets/images/banner/banner-vacinas-covid.jpg"
   subtitle: ""
   title : "Decovacs"
   content : "Comparative analysis of the safety and efficacy of the Covid-19 vaccine"
-  image : "/assets/images/banner/banner-vacinas-covid.jpg"
+  #image : "/assets/images/banner/banner-vacinas-covid.jpg"
   button:
     enable : true
     label : "About the project"
