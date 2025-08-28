@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Vocabulary Tables"
-date: 2025-08-26 10:00:00 +0300
+date: 2025-08-26 08:02:00 +0300
 tags: report
 categories: [report]
 author: Decovacs
 post_image: "/assets/images/blog/blog-15.jpg"
 author: "Decovacs"
-featured: true
 ---
 
 <h5>Vocabulary Tables</h5>

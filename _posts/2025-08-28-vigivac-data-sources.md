@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "VigiVac Data Sources"
-date: 2025-08-26 10:00:00 +0300
+date: 2025-08-26 08:01:00 +0300
 tags: report
 categories: [report]
 author: Decovacs
 post_image: "/assets/images/blog/blog-15.jpg"
 author: "Decovacs"
-featured: true
 ---
 
 <h5>VigiVac Data Sources</h5>
