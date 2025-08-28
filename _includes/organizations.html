@@ -1,0 +1,34 @@
+<!-- Team Start -->
+{% assign team = site.data.homepage_2.team %}
+{% if team.enable %}
+<section class="service-main section">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-8 text-center">
+				<span class="h5 text-color text-uppercase">
+					Organizations
+				</span>
+				<h3 class="mb-5 mt-2">International partnership between two health organizations</h3>
+			</div>
+		</div>
+
+		<div class="row justify-content-center">
+			<div class="col-md-6">
+				<div class="service-item mb-4 text-center px-4 py-5">
+					<img src="{{'/assets/images/team/logo-shaukat.webp' | relative_url}}" alt="" class="img-fluid w-100">
+					<h4 class="my-4">Shaukat Khanum Memorial Cancer Hospital and Research Centre</h4>
+					<p>Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna.</p>
+				</div>
+			</div>
+			<div class="col-md-6">
+				<div class="service-item mb-4 mb-lg-0 text-center px-4 py-5">
+					<img src="{{'/assets/images/team/logo-cidacs.svg' | relative_url}}" alt="" class="img-fluid w-100">
+					<h4 class="my-4 ">Center for Data and Knowledge Integration for Health</h4>
+					<p>Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+{% endif %}
+<!-- Team End -->
